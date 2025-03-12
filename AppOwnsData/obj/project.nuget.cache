@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YlmG+wRdleI=",
+  "dgSpecHash": "Qi8nTnat/SA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj",
+  "projectFilePath": "c:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\microsoft.identity.client\\4.59.0\\microsoft.identity.client.4.59.0.nupkg.sha512",
     "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",

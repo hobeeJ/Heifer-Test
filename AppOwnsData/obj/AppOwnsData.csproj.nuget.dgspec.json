@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj": {}
+    "c:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj": {
+    "c:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj",
+        "projectUniqueName": "c:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj",
         "projectName": "AppOwnsData",
-        "projectPath": "C:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj",
+        "projectPath": "c:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj",
         "packagesPath": "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\obj\\",
+        "outputPath": "c:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Obonganyanga.Joshua\\AppData\\Roaming\\NuGet\\NuGet.Config"
