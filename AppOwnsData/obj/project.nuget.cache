@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rbIBiau+86M=",
+  "dgSpecHash": "YlmG+wRdleI=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj",
+  "projectFilePath": "C:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\AppOwnsData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\microsoft.identity.client\\4.59.0\\microsoft.identity.client.4.59.0.nupkg.sha512",
     "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
@@ -21,7 +21,11 @@
     "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
     "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
     "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
-    "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+    "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Obonganyanga.Joshua\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
   "logs": [
     {
@@ -31,7 +35,7 @@
       "message": "Package 'Microsoft.Identity.Client' 4.59.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
       "libraryId": "Microsoft.Identity.Client",
       "targetGraphs": [
-        "net9.0"
+        "net6.0"
       ]
     },
     {
@@ -41,7 +45,7 @@
       "message": "Package 'Microsoft.Identity.Client' 4.59.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw",
       "libraryId": "Microsoft.Identity.Client",
       "targetGraphs": [
-        "net9.0"
+        "net6.0"
       ]
     }
   ]

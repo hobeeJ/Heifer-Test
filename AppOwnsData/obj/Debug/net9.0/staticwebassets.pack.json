@@ -53,10 +53,6 @@
       "PackagePath": "staticwebassets\\lib\\powerbi-client\\dist\\powerbi.min.js"
     },
     {
-      "Id": "c:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\logo 2.ico",
-      "PackagePath": "staticwebassets\\logo 2.ico"
-    },
-    {
       "Id": "c:\\Users\\Obonganyanga.Joshua\\Documents\\Hobee J\\Project\\Heifer\\2025\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\logo.png",
       "PackagePath": "staticwebassets\\logo.png"
     },

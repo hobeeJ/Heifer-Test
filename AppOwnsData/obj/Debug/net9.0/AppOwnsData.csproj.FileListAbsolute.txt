@@ -49,4 +49,4 @@ c:\Users\Obonganyanga.Joshua\Documents\Hobee J\Project\Heifer\2025\PowerBI-Devel
 c:\Users\Obonganyanga.Joshua\Documents\Hobee J\Project\Heifer\2025\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\net9.0\ref\AppOwnsData.dll
 c:\Users\Obonganyanga.Joshua\Documents\Hobee J\Project\Heifer\2025\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\net9.0\compressed\036xi8cjzt-6nj7yl69y0.gz
 c:\Users\Obonganyanga.Joshua\Documents\Hobee J\Project\Heifer\2025\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\net9.0\compressed\ihzte15rns-0vw6i9vuh9.gz
-c:\Users\Obonganyanga.Joshua\Documents\Hobee J\Project\Heifer\2025\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\net9.0\compressed\1okx4c66di-yzi7it7jqs.gz
+c:\Users\Obonganyanga.Joshua\Documents\Hobee J\Project\Heifer\2025\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\net9.0\AppOwnsData.sourcelink.json
