@@ -9,5 +9,5 @@
     <PackageReference Include="Microsoft.Identity.Client" Version="4.59.0" />
     <PackageReference Include="Microsoft.PowerBI.Api" Version="3.21.0" />
     <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.1.76" />
-  </ItemGroup>g
+  </ItemGroup>
 </Project>
